@@ -7,7 +7,7 @@ This repository houses the final versions of the Arquillian platform's artwork. 
 
 1. Submit an issue. To initiate the development of a new graphic (or update/modify an existing graphic) submit an issue that includes pertinent background information regarding what the graphic will represent (such as a module's description, definitions, links to other images the graphic is supposed to complement, etc). Also feel free to describe any additional ideas you may have regarding the proposed graphic as well as links or references to other images that possess characteristics (color, perspective, line style, etc) you like.
 
-2. Initial concepts. A request for a new graphic will be answered with a set of initial concepts. These initial concepts will usually be rough pencil sketches. Look through the options, then provide feedback in the comments beneath the original issue. 
+2. Review the initial concepts. A request for a new graphic will be answered with a set of initial concepts. These initial concepts will usually be rough pencil sketches. Look through the options, then provide feedback in the comments beneath the original issue. 
     Feedback can include (but is not limited to): 
     * None of these options appeal to me or represent the idea I had. 
         * If this is the case, a new set of options will be developed and commited. 
@@ -15,9 +15,10 @@ This repository houses the final versions of the Arquillian platform's artwork. 
         * Depending on the number of changes requested and the complexity of those changes (a detailed character rendered in a different position versus a few color changes) the next commit will be either another set of pencil sketches or a draft digital rendering. 
     * Option Y is great, that's the one I want.
         * The next commit will be a draft digital rendering of that option and another round of feedback will commence in order to polish the digital draft.
-    An issue may require many feedback cycles.
 
-3. Final draft. Once a digitial rendering of the requested artwork is reviewed and approved by the issue owner the pull request will be completed and the issue closed.
+    An issue may require multiple feedback cycles.
+
+3. Approve the final draft. Once a digitial rendering of the requested artwork is reviewed and approved by the issue owner the pull request will be completed and the issue closed.
 
 This workflow is a work in progress. Please feel free to make suggestions.
 
